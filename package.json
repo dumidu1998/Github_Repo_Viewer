@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^12.1.10",
     "autoprefixer": "^9.8.6",
     "axios": "^0.19.0",
+    "firebase-tools": "^9.11.0",
     "postcss": "^7.0.35",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",

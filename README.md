@@ -1,4 +1,4 @@
-# Simple React App to View Public Repos of a user
+# Simple React App to View Public Repos of a User
 ## React Js  Tailwind CSS 
-### Demo 
+### Demo [github.dumidu.xyz](https://www.google.com)
 Try Now
